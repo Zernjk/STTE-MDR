@@ -2,7 +2,12 @@
 
 Implementation and simulation-analysis code for comparing inverse-probability, doubly robust, model-based density-ratio (MDR), trial-emulation, and longitudinal TMLE estimators of the sustained-treatment effect (STTE).
 
-**Author:** abcd
+**Authors:** Zern Ke (1), Mingshi Cui (1), Feng Dai (2), Birol Emir (2), Javier Cabrera (1), and Demissie Alemayehu (2)
+
+**Affiliations:**
+
+1. Department of Statistics, Rutgers University, New Brunswick
+2. Pfizer Inc, New York, NY, USA
 
 ## Estimators
 
@@ -139,15 +144,15 @@ Outputs are written to the `scenario_diagnostics/` directory.
 
 ## Citation
 
-If you use this code, please cite both the accompanying manuscript and the software repository. Replace the bracketed fields below with the final author, organization, publication, and repository information.
+If you use this code, please cite both the accompanying manuscript and the software repository. Replace the remaining bracketed fields below with the final publication and repository information.
 
 ### Manuscript
 
-> [Author name(s)]. (2026). *From Cumulative Weights to Marginal Density Ratios: Per-Protocol Estimation in Sequential Target Trials*. [Journal, preprint server, or other publication information].
+> Ke, Z., Cui, M., Dai, F., Emir, B., Cabrera, J., & Alemayehu, D. (2026). *From Cumulative Weights to Marginal Density Ratios: Per-Protocol Estimation in Sequential Target Trials*. [Journal, preprint server, or other publication information].
 
 ```bibtex
-@unpublished{author2026marginaldensityratios,
-  author = {[Author name(s)]},
+@unpublished{ke2026marginaldensityratios,
+  author = {Ke, Zern and Cui, Mingshi and Dai, Feng and Emir, Birol and Cabrera, Javier and Alemayehu, Demissie},
   title  = {From Cumulative Weights to Marginal Density Ratios: Per-Protocol Estimation in Sequential Target Trials},
   year   = {2026},
   note   = {[Manuscript status, journal, or preprint information]},
@@ -157,11 +162,11 @@ If you use this code, please cite both the accompanying manuscript and the softw
 
 ### Software repository
 
-> [Author name(s) or organization]. (2026). *STTE-MDR-Code: Implementation and simulation-analysis code for “From Cumulative Weights to Marginal Density Ratios”* [Computer software]. GitHub. [Repository URL]
+> Ke, Z., Cui, M., Dai, F., Emir, B., Cabrera, J., & Alemayehu, D. (2026). *STTE-MDR-Code: Implementation and simulation-analysis code for “From Cumulative Weights to Marginal Density Ratios”* [Computer software]. GitHub. [Repository URL]
 
 ```bibtex
-@software{author2026sttemdrcode,
-  author  = {{[Author name(s) or organization]}},
+@software{ke2026sttemdrcode,
+  author  = {Ke, Zern and Cui, Mingshi and Dai, Feng and Emir, Birol and Cabrera, Javier and Alemayehu, Demissie},
   title   = {{STTE-MDR-Code}: Implementation and Simulation-Analysis Code for ``From Cumulative Weights to Marginal Density Ratios''},
   year    = {2026},
   url     = {[Repository URL]},
@@ -171,7 +176,7 @@ If you use this code, please cite both the accompanying manuscript and the softw
 
 ## License
 
-This repository is released under the [MIT License](LICENSE). Replace the copyright-holder placeholder in `LICENSE` with the final author or organization name before publication.
+This repository is released under the [MIT License](LICENSE). Copyright is held by the authors listed above.
 
 ## Reproducibility notes
 
