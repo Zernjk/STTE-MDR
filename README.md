@@ -153,7 +153,7 @@ If you use this code, please cite both the accompanying manuscript and the softw
 ```bibtex
 @unpublished{ke2026marginaldensityratios,
   author = {Ke, Zern and Cui, Mingshi and Dai, Feng and Emir, Birol and Cabrera, Javier and Alemayehu, Demissie},
-  title  = {From Cumulative Weights to Marginal Density Ratios: Per-Protocol Estimation in Sequential Target Trials},
+  title  = {From Cumulative Weights to Marginal Density Ratios: Per-Protocol Estimation in Sequential Target Trial Emulation},
   year   = {2026},
   note   = {[Manuscript status, journal, or preprint information]},
   doi    = {[DOI, if available]}
@@ -167,7 +167,7 @@ If you use this code, please cite both the accompanying manuscript and the softw
 ```bibtex
 @software{ke2026sttemdrcode,
   author  = {Ke, Zern and Cui, Mingshi and Dai, Feng and Emir, Birol and Cabrera, Javier and Alemayehu, Demissie},
-  title   = {{STTE-MDR-Code}: Implementation and Simulation-Analysis Code for ``From Cumulative Weights to Marginal Density Ratios''},
+  title   = {{STTE-MDR-Code}: Implementation and Simulation-Analysis Code for ``From Cumulative Weights to Marginal Density Ratios: Per-Protocol Estimation in Sequential Target Trial Emulation''},
   year    = {2026},
   url     = {[Repository URL]},
   version = {[Release or commit identifier]}
